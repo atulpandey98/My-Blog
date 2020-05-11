@@ -1,7 +1,7 @@
 ---
 title: It begins here!
 date: "2020-05-11T23:46:37.121Z"
-description: "Hello World"
+description: "First Blog"
 ---
 
 Heyyy, you came to see my blog.
