@@ -14,25 +14,42 @@ Heyyy, you came to see my blog.
 
 I am a Final year Btech. Student.
 
-Currently, I am going through a phase of learning and doing various activities.
+Currently, I am going through a phase of learning and trying lots of different stuff.
+
+Earlier, I used to think that, "Ooooh I don't like drawing and shit so I won't do front end and no web development. I would only make softwares and do the backend".
+
+![smart](https://media.giphy.com/media/W35DnRbN4oDHIAApdk/giphy.gif)
+
+But as you mature your thought process changes. That's exactly happened to me. (All thanks to Tanay Pratap sir. Do check his [work](https://www.linkedin.com/in/tanaypratap/).
+
+So now I am learning web development from the beginning. Made my portfolio with Html, css and basic js only, no library or frameworks.
 
 ##Techie techie things
-I code in Java. Done a lot of competitive programming.
 
-Also know few other languages like c, c++, python. Recently, I made a Linkedin web scraper.
+I code in Java. Did all of my competitive programmings in Java;
 
-Check that out on my Github.([Here](https://github.com/atulpandey98/LinkedIn-Post-Scraper))
+Also know a few other languages like c, c++, python. Recently, I made a Linkedin web scraper;
 
-Now currently i am learning web development.
+Check that out on my Github. [Here](https://github.com/atulpandey98/LinkedIn-Post-Scraper);
+
+Now I am learning web development;
+
+Next, I will learn MERN stack and build some projects around them;
 
 ##Not techie techie things.
 
 I did dancing as a hobby.
 
-I learnt guitar.
+I learnt the guitar. (This is love).
 
-Currently learning keyboard.
+I learnt 1 song on the flute. (This is tough).
 
-Will update later.
+Currently learning keyboard. (This is easy).
 
-#Bye.
+That's all about me.
+
+![bye](https://media.giphy.com/media/1jkVi22T6iUrQJUNqk/giphy.gif)
+
+##Bye.
+
+*Connect with me on [instagram](https://www.instagram.com/_atul___pandey_/) and linkedin.*
